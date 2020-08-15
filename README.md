@@ -20,6 +20,7 @@ I am Mihir Kachroo 😃. I am from Earth, Milky Way and currently getting my hig
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java, C++ and Python**
 - Blockchain development using **Blockstack, GanacheCLI**
+- Game developement using **Processing Java, Unity** (Still learning)
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
 
