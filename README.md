@@ -2,9 +2,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Github](https://img.shields.io/github/followers/mihirKachroo?label=Follow&style=social)](https://github.com/Sarthakbh321)
- [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/mihir-kachroo/)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mkachroo29@gmail.com)
+[![Github](https://img.shields.io/github/followers/mihirKachroo?label=Follow&style=social)](https://github.com/mihirKachroo)
+ [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-kachroo/)](https://www.linkedin.com/in/mihir-kachroo/)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkachroo29@gmail.com)](mailto:mkachroo29@gmail.com)
 
 I am Mihir Kachroo 😃. I am from Earth, Milky Way and currently getting my high school diploma.I love to explore and learn about new things.
 ## 👯 Communities
@@ -28,5 +28,3 @@ Talk to me about
 - ⚡ Fun fact: Programmers don't sleep.
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
