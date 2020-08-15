@@ -9,7 +9,6 @@ I am Mihir Kachroo 😃. I am from Earth, Milky Way and currently getting my hig
 * John Fraser Secondary School (AP Student)
 * CSE Club at CPU
 ## ⚡ Technologies
-Talk to me about
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
 - Backend development using **Flask, Django**
 - Robust full-stack system design implementation
