@@ -4,12 +4,12 @@
 
 I am Mihir Kachroo 😃. I am from Earth, Milky Way and currently getting my high school diploma. I love to explore and learn about new things.
 ## 🤓 About Me
-* 🔭 I’m currently working on the bloc library
-* ☕ I’m learning how to make latte art
-* 🧑‍💻 I’m looking to collaborate on open source projects
-* 💬 Ask me about Flutter and Dart.
+* 🔭 I’m currently doing consultancy work for my clients
+* 💻 I’m learning flutter developement
+* 📫 How to reach me: mkachroo29@gmail.com
+* 💬 Ask me about anything! I am happy to help and guide you.
 * 😄 Pronouns: he/him/his
-* ⚡ Fun fact: I have a pet bunny named Coco 🐰
+* ⚡ Fun fact: Programmers don't sleep
 
 ## ⚡ Technologies
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
