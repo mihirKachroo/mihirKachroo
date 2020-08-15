@@ -30,10 +30,9 @@ I am Mihir Kachroo 😃. I am from Earth, Milky Way and currently getting my hig
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://www.facebook.com/mihir.kachroo/">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][faceboook]
+
 [website]: https://mihir-kachroo.netlify.app
 [instagram]: https://instagram.com/mihirk29
 [linkedin]: https://linkedin.com/in/mihir-kachroo
-
+[facebook]: https://www.facebook.com/mihir.kachroo
