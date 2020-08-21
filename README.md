@@ -12,7 +12,7 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and currently getting my high
 * ⚡ Fun fact: Programmers don't sleep
 
 ## ⚡ Technologies
-- Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Ionic, Vue**
 - Backend development using **Flask, Django**
 - Robust full-stack system design implementation
 - Desktop application development using **Flutter**(Still learning)
