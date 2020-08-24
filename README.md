@@ -9,7 +9,7 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and currently getting my high
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help and guide you.
 * 😄 Pronouns: he/him/his
-* ⚡ Fun fact: Programmers don't sleep
+* ⚡ Fun fact: Shaq hit almost 12,000 baskets in his career. Exactly 1 of them was a 3-pointer.
 
 ## ⚡ Technologies
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Ionic, Vue**
