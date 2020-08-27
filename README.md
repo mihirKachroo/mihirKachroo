@@ -4,7 +4,7 @@
 
 I am Mihir Kachroo 😃. I am from Ontario, Canada and currently getting my high school diploma. I love to explore and learn about new things.
 ## 🤓 About Me
-* 🔭 I’m currently doing consultancy work for my clients
+* 🔭 I’m currently enjoying summer
 * 💻 I’m learning flutter developement
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help and guide you.
