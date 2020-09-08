@@ -18,6 +18,7 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and currently getting my high
 - Desktop application development using **Flutter**(Still learning)
 - Mobile application development using **Flutter, Kotlin, React Native**
 - Solving Data structure and algorithm questions in **Java, C++ and Python**
+- Artificial Intelligence development using **Python**
 - Blockchain development using **Blockstack, GanacheCLI, OrbitDB**
 - Game developement using **Processing Java, Unity** (Still learning)
 
