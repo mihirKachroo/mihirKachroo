@@ -15,7 +15,7 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and currently getting my high
 - Front-end development using **HTML, Javascript, CSS, Bootstrap, React, Ionic, Vue**
 - Backend development using **AWS Cloud, Firebase, MongoDB, Flask, Django**
 - Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
+- Desktop application development using **Flutter** (Still learning)
 - Mobile application development using **Flutter, Kotlin, React Native**
 - Solving Data structure and algorithm questions in **Java, C++ and Python**
 - Artificial Intelligence development using **Python**
