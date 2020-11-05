@@ -18,8 +18,8 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and I love to explore and lea
 - Desktop application development using **Flutter** (Still learning)
 - Mobile application development using **Flutter, Kotlin, React Native**
 - Solving Data structure and algorithm questions in **Java, C++ and Python**
-- Artificial Intelligence development using **Python**
-- Blockchain development using **Blockstack, GanacheCLI, OrbitDB**
+- Artificial Intelligence development using **Python** (Still learning)
+- Blockchain development using **Blockstack, GanacheCLI, OrbitDB** (Still learning)
 - Game developement using **Processing Java, Unity** (Still learning)
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
