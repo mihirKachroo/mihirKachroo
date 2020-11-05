@@ -11,6 +11,16 @@ I am Mihir Kachroo 😃. I am from Ontario, Canada and I love to explore and lea
 * 😄 Pronouns: he/him/his
 * ⚡ Fun fact: Shaq hit almost 12,000 baskets in his career. Exactly 1 of them was a 3-pointer.
 
+## ⚡ Some of My Projects
+- https://news-bias-detection.herokuapp.com/
+- https://devpost.com/software/blocktrade
+- https://devpost.com/software/smooth-claiminal
+- https://devpost.com/software/smurfitkappa-wx059d
+- https://devpost.com/software/alz-vision
+- https://github.com/Team-Crushing-It/critical_care
+- https://github.com/Team-Crushing-It/dripdrop
+
+
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
 
 
