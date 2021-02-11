@@ -4,12 +4,12 @@
 
 My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn about new things.
 ## 🤓 About Me
-* 🔭 I’m currently enjoying the good weather
+* 🔭 I’m currently enjoying the snow
 * 💻 I’m learning flutter developement
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help and guide you.
 * 😄 Pronouns: he/him/his
-* ⚡ Fun fact: Shaq hit almost 12,000 baskets in his career. Exactly 1 of them was a 3-pointer.
+* ⚡ Fun fact: The voice of yoda and miss piggy were done by the same person.
 
 ## ⚡ Some of My Projects
 - https://news-bias-detection.herokuapp.com/
