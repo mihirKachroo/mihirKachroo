@@ -7,10 +7,11 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 * 🔭 I’m currently enjoying the snow
 * 💻 I’m learning flutter developement
 * 📫 How to reach me: mkachroo29@gmail.com
-* 💬 Ask me about anything! I am happy to help and guide you.
+* 💬 Ask me about anything! I am happy to help you.
 * ⚡ Fun fact: The voice of yoda and miss piggy were done by the same person.
 
 ## ⚡ Some of My Projects
+- [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit?usp=sharing)
 - https://news-bias-detection.herokuapp.com/
 - https://devpost.com/software/blocktrade
 - https://devpost.com/software/smooth-claiminal
