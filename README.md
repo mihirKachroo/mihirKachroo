@@ -11,15 +11,14 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 * ⚡ Fun fact: The voice of yoda and miss piggy were done by the same person.
 
 ## ⚡ Some of My Projects
+- [News Bias Detector](https://news-bias-detection.herokuapp.com)
+- [Blocktrade](https://devpost.com/software/blocktrade)
+- [Critical Care](https://github.com/Team-Crushing-It/critical_care)
 - [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit?usp=sharing)
-- https://news-bias-detection.herokuapp.com/
-- https://devpost.com/software/blocktrade
-- https://devpost.com/software/smooth-claiminal
-- https://devpost.com/software/smurfitkappa-wx059d
-- https://devpost.com/software/alz-vision
-- https://github.com/Team-Crushing-It/critical_care
-- https://github.com/Team-Crushing-It/dripdrop
-
+- [Smooth Claiminal](https://devpost.com/software/smooth-claiminal)
+- [Smurfit Kappa](https://devpost.com/software/smurfitkappa-wx059d)
+- [Dement.AI](https://devpost.com/software/alz-vision)
+- [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
 
