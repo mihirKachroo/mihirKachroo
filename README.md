@@ -8,7 +8,7 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 * 💻 I’m learning flutter developement
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help you.
-* ⚡ Fun fact: The voice of yoda and miss piggy were done by the same person.
+* ⚡ Fun fact: I use arch (btw)
 
 ## ⚡ Some of My Projects
 - [News Bias Detector](https://news-bias-detection.herokuapp.com)
@@ -17,7 +17,6 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 - [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit?usp=sharing)
 - [Smooth Claiminal](https://devpost.com/software/smooth-claiminal)
 - [Smurfit Kappa](https://devpost.com/software/smurfitkappa-wx059d)
-- [Dement.AI](https://devpost.com/software/alz-vision)
 - [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
