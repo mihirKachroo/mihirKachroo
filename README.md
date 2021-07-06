@@ -8,6 +8,7 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 * 💻 I’m learning flutter developement
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help.
+* ⚡ (Not So) Fun fact: I use arch (btw)
 
 ## ⚡ Some of My Projects
 - [News Bias Detector](https://news-bias-detection.herokuapp.com)
