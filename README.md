@@ -11,6 +11,7 @@ My name is Mihir 😃. I am from Ontario, Canada and I love to explore and learn
 * ⚡ (Not So) Fun fact: I use arch (btw)
 
 ## ⚡ Some of My Projects
+- [WokeTalk](https://dev.d25571y6zfxk66.amplifyapp.com/)
 - [News Bias Detector](https://news-bias-detection.herokuapp.com)
 - [Blocktrade](https://devpost.com/software/blocktrade)
 - [Critical Care](https://github.com/Team-Crushing-It/critical_care)
