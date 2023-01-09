@@ -12,13 +12,14 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 * ⚡ (Not So) Fun fact: I use arch (btw)
 
 ## ⚡ Some of My Projects
-- [Smooth Claiminal](https://github.com/mihirKachroo/SmoothClaiminal)
-- [News Bias Detector](https://news-bias-detection.herokuapp.com)
+- [BlackJack Vision]
+- [WokeTalk](https://github.com/mihirKachroo/BlackjackVision)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
 - [Blocktrade](https://devpost.com/software/blocktrade)
+- [Smooth Claiminal](https://github.com/mihirKachroo/SmoothClaiminal)
 - [Racing Car Game](https://github.com/mihirKachroo/Racing-Car-Game)
 - [Critical Care](https://github.com/Team-Crushing-It/critical_care)
-- [WokeTalk](https://dev.d25571y6zfxk66.amplifyapp.com/)
+- [News Bias Detector](https://news-bias-detection.herokuapp.com)
 - [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit?usp=sharing)
 - [Smooth Claiminal](https://devpost.com/software/smooth-claiminal)
 - [Smurfit Kappa](https://devpost.com/software/smurfitkappa-wx059d)
