@@ -6,7 +6,7 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 
 ## 😄 About Me
 * 🔭 I’m currently chilling
-* 💻 I’m learning stable diffusion (gen AI stuff)
+* 💻 I’m learning about stable diffusion (gen AI stuff)
 * 📫 How to reach me: mkachroo29@gmail.com
 * 💬 Ask me about anything! I am happy to help.
 * ⚡ (Not So) Fun fact: I use arch (btw)
