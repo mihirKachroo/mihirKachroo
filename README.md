@@ -20,9 +20,6 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 - [Smooth Claiminal](https://github.com/mihirKachroo/SmoothClaiminal)
 - [Racing Car Game](https://github.com/mihirKachroo/Racing-Car-Game)
 - [News Bias Detector](https://news-bias-detection.herokuapp.com)
-- [Aperio](https://docs.google.com/presentation/d/1S23_4Su-6Nx9ILWNScrqV8F7-ScAtvvFrlmZV71HZ0w/edit?usp=sharing)
-- [Smooth Claiminal](https://devpost.com/software/smooth-claiminal)
-- [Smurfit Kappa](https://devpost.com/software/smurfitkappa-wx059d)
 - [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
