@@ -12,6 +12,7 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 * ⚡ (Not So) Fun fact: I use arch (btw)
 
 ## ⚡ Some of My Projects
+- [BlackjackVision](https://github.com/mihirKachroo/BlackjackVision)
 - [ChatPG](https://github.com/mihirKachroo/ChatPG)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
 - [Blocktrade](https://devpost.com/software/blocktrade)
