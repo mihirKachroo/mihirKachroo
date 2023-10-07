@@ -22,7 +22,7 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 - [News Bias Detector](https://news-bias-detection.herokuapp.com)
 - [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
-![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
+#![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
 
 
 
