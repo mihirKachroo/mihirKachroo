@@ -5,20 +5,17 @@
 My name is Mihir 😃. I am studying Software Engineering at the University of Waterloo and I love to explore and learn about new things. Previously a Software Engineer Intern @ Ceridian, Royal Bank of Canada and Node App.
 
 ## 😄 About Me
-* 🔭 I’m currently chilling
-* 💻 I’m learning about stable diffusion (gen AI stuff)
+* 💻 I’m currently learning about stable diffusion
 * 📫 How to reach me: mkachroo29@gmail.com
-* 💬 Ask me about anything! I am happy to help.
+* 💬 Ask me about anything! I love chatting.
 
 ## ⚡ Some of My Projects
+- [Tabule](https://devpost.com/software/tabula-z95t0u)
 - [BlackjackVision](https://github.com/mihirKachroo/BlackjackVision)
-- [ChatPG](https://github.com/mihirKachroo/ChatPG)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
-- [Blocktrade](https://devpost.com/software/blocktrade)
+- [ChatPG](https://github.com/mihirKachroo/ChatPG)
 - [Critical Care](https://github.com/Team-Crushing-It/critical_care)
-- [Smooth Claiminal](https://github.com/mihirKachroo/SmoothClaiminal)
 - [Racing Car Game](https://github.com/mihirKachroo/Racing-Car-Game)
-- [News Bias Detector](https://news-bias-detection.herokuapp.com)
 - [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
 <!---
