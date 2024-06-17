@@ -10,7 +10,7 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 * 💬 Ask me about anything! I love chatting.
 
 ## ⚡ Some of My Projects
-- [Tabule](https://devpost.com/software/tabula-z95t0u)
+- [Tabula](https://devpost.com/software/tabula-z95t0u)
 - [BlackjackVision](https://github.com/mihirKachroo/BlackjackVision)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
 - [ChatPG](https://github.com/mihirKachroo/ChatPG)
