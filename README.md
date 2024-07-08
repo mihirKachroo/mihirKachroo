@@ -7,7 +7,7 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 ## 😄 About Me
 * 💻 I’m currently learning about stable diffusion
 * 📫 How to reach me: mkachroo29@gmail.com
-* 💬 Ask me about anything! I love chatting.
+* 💬 Ask me about anything! Love to chat.
 
 ## ⚡ Some of My Projects
 - [Tabula](https://devpost.com/software/tabula-z95t0u)
