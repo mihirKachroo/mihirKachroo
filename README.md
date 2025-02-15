@@ -11,12 +11,9 @@ My name is Mihir 😃. I am studying Software Engineering at the University of W
 
 ## ⚡ Some of My Projects
 - [Tabula](https://devpost.com/software/tabula-z95t0u)
-- [BlackjackVision](https://github.com/mihirKachroo/BlackjackVision)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
-- [ChatPG](https://github.com/mihirKachroo/ChatPG)
 - [Critical Care](https://github.com/Team-Crushing-It/critical_care)
 - [Racing Car Game](https://github.com/mihirKachroo/Racing-Car-Game)
-- [Drip Drop](https://github.com/Team-Crushing-It/dripdrop)
 
 <!---
 ![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
