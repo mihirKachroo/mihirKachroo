@@ -2,14 +2,14 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-My name is Mihir 😃. I am studying Software Engineering at the University of Waterloo and I love to explore and learn about new things.
+My name is Mihir, I am currently studying Software Engineering at the University of Waterloo. I love to explore and learn about new things.
 
-## 😄 About Me
+## About Me
 * 💻 I’m currently learning about stable diffusion
 * 📫 How to reach me: mkachroo29@gmail.com
-* 💬 Ask me about anything! Love to chat.
+* 💬 Ask me about anything! Happy to chat.
 
-## ⚡ Some of My Projects
+## Some of My Projects
 - [Tabula](https://devpost.com/software/tabula-z95t0u)
 - [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
 - [Critical Care](https://github.com/Team-Crushing-It/critical_care)
