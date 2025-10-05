@@ -1,36 +1,3 @@
-# Hey There! 👋</h2>
+Hi! I'm Mihir, a student at UWaterloo studying Software Engineering. I've previously worked at [Meta](https://www.meta.com/) on AI Agents, [Bloomberg](https://www.bloomberg.com/professional/products/bloomberg-terminal/) on C++ engine team, and been a founding engineer at a [Node App](https://www.prnewswire.com/news-releases/dulcedo-group-acquires-ai-powered-influencer-marketing-startup-node-app-302247029.html).
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-My name is Mihir, I am currently studying Software Engineering at the University of Waterloo. I love to explore and learn about new things.
-
-## About Me
-* 💻 I’m currently learning about stable diffusion
-* 📫 How to reach me: mkachroo29@gmail.com
-* 💬 Ask me about anything! Happy to chat.
-
-## Some of My Projects
-- [Tabula](https://devpost.com/software/tabula-z95t0u)
-- [VEX Robotics V5 CodeBase](https://github.com/mihirKachroo/tipping-point-A)
-- [Critical Care](https://github.com/Team-Crushing-It/critical_care)
-- [Racing Car Game](https://github.com/mihirKachroo/Racing-Car-Game)
-
-<!---
-![Mihir's github stats](https://github-readme-stats.vercel.app/api?username=mihirKachroo&hide=["issues"]&show_icons=true)
--->
-
-
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Devpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/dailymotion.svg" />][devpost]
-
-[website]: https://mihir-kachroo.netlify.app
-[instagram]: https://instagram.com/mihirk29
-[twitter]: https://twitter.com/KachrooMihir
-[linkedin]: https://linkedin.com/in/mihir-kachroo
-[facebook]: https://www.facebook.com/mihir.kachroo
-[devpost]: https://devpost.com/mkachroo29?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+I love to build and learn new things.
