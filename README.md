@@ -1,7 +1,7 @@
 ### Hi! I'm Mihir 👋  
 **Software engineering @ uWaterloo**
 
-building things that scale.
+building things @ Databricks MosaicML
 
 
 **previously**  
