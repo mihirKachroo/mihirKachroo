@@ -5,7 +5,6 @@ building things @ Databricks MosaicML
 
 
 **previously**  
-- agentic feedback learning @ [Databricks MosaicML](https://www.databricks.com/homepage)
 - ai agents @ [Meta](https://www.meta.com/)  
 - real-time c++ engine @ [Bloomberg](https://www.bloomberg.com/professional/products/bloomberg-terminal/)  
 - founding engineer @ [Node App](https://www.prnewswire.com/news-releases/dulcedo-group-acquires-ai-powered-influencer-marketing-startup-node-app-302247029.html) (Techstars 2021, acquired)
