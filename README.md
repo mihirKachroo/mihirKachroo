@@ -1,11 +1,11 @@
 ### Hi! I'm Mihir 👋  
 **Software engineering @ uWaterloo**
 
-building things @ Databricks MosaicML
+training & inference accelerator @ Meta ([see blog](https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/))
 
 
 **previously**  
-- ai agents @ [Meta](https://www.meta.com/)  
+- agents @ [databricks mosaicML](https://www.databricks.com/)  
 - real-time c++ engine @ [Bloomberg](https://www.bloomberg.com/professional/products/bloomberg-terminal/)  
 - founding engineer @ [Node App](https://www.prnewswire.com/news-releases/dulcedo-group-acquires-ai-powered-influencer-marketing-startup-node-app-302247029.html) (Techstars 2021, acquired)
 
